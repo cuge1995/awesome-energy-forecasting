@@ -24,6 +24,7 @@ list of papers, code, and other resources focus on energy forecasting.
 
 ### 2020
 
+- Wu, C., Wang, J., Chen, X., Du, P., & Yang, W. (2020). A novel hybrid system based on multi-objective optimization for wind speed forecasting. *Renewable Energy*, 146, 149-165.
 
 - Sun, W., & Huang, C. (2020). A carbon price prediction model based on secondary decomposition algorithm and optimized back propagation neural network. *Journal of Cleaner Production*, *243*, 118671.
 
