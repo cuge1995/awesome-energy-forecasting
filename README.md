@@ -24,6 +24,12 @@ list of papers, code, and other resources focus on energy forecasting.
 
 ### 2020
 
+- Yagli, G. M., Yang, D., Gandhi, O., & Srinivasan, D. (2020). Can we justify producing univariate machine-learning forecasts with satellite-derived solar irradiance?. *Applied Energy*, *259*, 114122.
+
+- Yagli, G. M., Yang, D., & Srinivasan, D. (2019). Automatic hourly solar forecasting using machine learning models. *Renewable and Sustainable Energy Reviews*, *105*, 487-498.
+
+- Ahmed, R., Sreeram, V., Mishra, Y., & Arif, M. D. (2020). A review and evaluation of the state-of-the-art in PV solar power forecasting: Techniques and optimization. *Renewable and Sustainable Energy Reviews*, *124*, 109792.
+
 - Wu, C., Wang, J., Chen, X., Du, P., & Yang, W. (2020). A novel hybrid system based on multi-objective optimization for wind speed forecasting. *Renewable Energy*, 146, 149-165.
 
 - Sun, W., & Huang, C. (2020). A carbon price prediction model based on secondary decomposition algorithm and optimized back propagation neural network. *Journal of Cleaner Production*, *243*, 118671.
