@@ -69,7 +69,7 @@ list of papers, code, and other resources focus on energy forecasting.
 
 ## Datasets
 
-- [ Independent System Operator New England (ISO NE](https://www.iso-ne.com/)
+- [ Independent System Operator New England (ISO NE)](https://www.iso-ne.com/)
 
 - [Electricity dataset from UCI](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)
 
