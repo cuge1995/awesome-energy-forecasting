@@ -22,6 +22,9 @@ list of papers, code, and other resources focus on energy forecasting.
 
 ## Papers
 
+### 2021
+- Kazmi, H., Munné-Collado, Í., Mehmood, F., Syed, T. A., & Driesen, J. (2021). Towards data-driven energy communities: A review of open-source datasets, models and tools. Renewable and Sustainable Energy Reviews, 148, 111290. `nice review`
+
 ### 2020
 
 - Ahmad, W., Ayub, N., Ali, T., Irfan, M., Awais, M., Shiraz, M., & Glowacz, A. (2020). Towards Short Term Electricity Load Forecasting Using Improved Support Vector Machine and Extreme Learning Machine. Energies, 13(11), 2907.
