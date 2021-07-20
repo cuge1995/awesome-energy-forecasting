@@ -24,6 +24,7 @@ list of papers, code, and other resources focus on energy forecasting.
 
 ### 2021
 - Kazmi, H., Munné-Collado, Í., Mehmood, F., Syed, T. A., & Driesen, J. (2021). Towards data-driven energy communities: A review of open-source datasets, models and tools. Renewable and Sustainable Energy Reviews, 148, 111290. `nice review`
+- Munkhammar, J., van der Meer, D., & Widén, J. (2021). Very short term load forecasting of residential electricity consumption using the Markov-chain mixture distribution (MCM) model. Applied Energy, 282, 116180.
 
 ### 2020
 
@@ -80,6 +81,8 @@ list of papers, code, and other resources focus on energy forecasting.
 - [ Independent System Operator New England (ISO NE)](https://www.iso-ne.com/)
 
 - [Electricity dataset from UCI](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)
+
+- [Solar home electricity data](https://www.ausgrid.com.au/Industry/Our-Research/Data-to-share/Solar-home-electricity-data)
 
 
 
