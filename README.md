@@ -67,6 +67,15 @@ list of papers, code, and other resources focus on energy forecasting.
 - Bedi, J., & Toshniwal, D. (2019). Deep learning framework to forecast electricity demand. Applied energy, 238, 1312-1326.
 - Qing, X., & Niu, Y. (2018). Hourly day-ahead solar irradiance prediction using weather forecasts by LSTM. Energy, 148, 461-468.
 - Wang, K., Qi, X., & Liu, H. (2019). A comparison of day-ahead photovoltaic power forecasting models based on deep learning neural network. Applied Energy, 251, 113315.
+- Lahouar, A., & Slama, J. B. H. (2017). Hour-ahead wind power forecast based on random forests. Renewable energy, 109, 529-541.
+- Du, P., Wang, J., Yang, W., & Niu, T. (2019). A novel hybrid model for short-term wind power forecasting. Applied Soft Computing, 80, 93-106.
+- Rolnick, D., Donti, P. L., Kaack, L. H., Kochanski, K., Lacoste, A., Sankaran, K., ... & Bengio, Y. (2019). Tackling climate change with machine learning. arXiv preprint arXiv:1906.05433. `good review`
+- Voyant, C., Notton, G., Kalogirou, S., Nivet, M. L., Paoli, C., Motte, F., & Fouilloy, A. (2017). Machine learning methods for solar radiation forecasting: A review. Renewable Energy, 105, 569-582. `700+`
+- Pedro, H. T., & Coimbra, C. F. (2012). Assessment of forecasting techniques for solar power production with no exogenous inputs. Solar Energy, 86(7), 2017-2028.
+- Sobri, S., Koohi-Kamali, S., & Rahim, N. A. (2018). Solar photovoltaic generation forecasting methods: A review. Energy Conversion and Management, 156, 459-497. `review`
+- Makridakis, S., Spiliotis, E., & Assimakopoulos, V. (2018). Statistical and Machine Learning forecasting methods: Concerns and ways forward. PloS one, 13(3), e0194889.
+- Rustam, F., Reshi, A. A., Mehmood, A., Ullah, S., On, B. W., Aslam, W., & Choi, G. S. (2020). COVID-19 future forecasting using supervised machine learning models. IEEE access, 8, 101489-101499.
+- Hewamalage, H., Bergmeir, C., & Bandara, K. (2021). Recurrent neural networks for time series forecasting: Current status and future directions. International Journal of Forecasting, 37(1), 388-427.
 
 
 ## Journals
