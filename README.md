@@ -41,7 +41,7 @@ list of papers, code, and other resources focus on energy forecasting.
 
 - Yagli, G. M., Yang, D., & Srinivasan, D. (2019). Automatic hourly solar forecasting using machine learning models. *Renewable and Sustainable Energy Reviews*, *105*, 487-498.
 
-- Ahmed, R., Sreeram, V., Mishra, Y., & Arif, M. D. (2020). A review and evaluation of the state-of-the-art in PV solar power forecasting: Techniques and optimization. *Renewable and Sustainable Energy Reviews*, *124*, 109792.
+- Ahmed, R., Sreeram, V., Mishra, Y., & Arif, M. D. (2020). A review and evaluation of the state-of-the-art in PV solar power forecasting: Techniques and optimization. *Renewable and Sustainable Energy Reviews*, *124*, 109792. `review`
 
 - Wu, C., Wang, J., Chen, X., Du, P., & Yang, W. (2020). A novel hybrid system based on multi-objective optimization for wind speed forecasting. *Renewable Energy*, 146, 149-165.
 
@@ -54,6 +54,7 @@ list of papers, code, and other resources focus on energy forecasting.
 - Somu, N., MR, G. R., & Ramamritham, K. (2020). A hybrid model for building energy consumption forecasting using long short term memory networks. *Applied Energy*, *261*, 114131.
 
 - Aly, H. H. (2020). A novel approach for harmonic tidal currents constitutions forecasting using hybrid intelligent models based on clustering methodologies. *Renewable Energy*, *147*, 1554-1564.
+- Kong, W., Jia, Y., Dong, Z. Y., Meng, K., & Chai, S. (2020). Hybrid approaches based on deep whole-sky-image learning to photovoltaic generation forecasting. Applied Energy, 280, 115875. `good idea`
 
 
 
