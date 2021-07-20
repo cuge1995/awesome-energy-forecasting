@@ -28,6 +28,8 @@ list of papers, code, and other resources focus on energy forecasting.
 - Li, L., Meinrenken, C. J., Modi, V., & Culligan, P. J. (2021). Short-term apartment-level load forecasting using a modified neural network with selected auto-regressive features. Applied Energy, 287, 116509.
 - Zhang, W., Chen, Q., Yan, J., Zhang, S., & Xu, J. (2021). A novel asynchronous deep reinforcement learning model with adaptive early forecasting method and reward incentive mechanism for short-term load forecasting. Energy, 121492. `reinforcement learning`
 - Du Plessis, A. A., Strauss, J. M., & Rix, A. J. (2021). Short-term solar power forecasting: Investigating the ability of deep learning models to capture low-level utility-scale Photovoltaic system behaviour. Applied Energy, 285, 116395.
+- Ding, P., Liu, X., Li, H., Huang, Z., Zhang, K., Shao, L., & Abedinia, O. (2021). Useful life prediction based on wavelet packet decomposition and two-dimensional convolutional neural network for lithium-ion batteries. Renewable and Sustainable Energy Reviews, 148, 111287.
+
 
 ### 2020
 
@@ -88,6 +90,7 @@ list of papers, code, and other resources focus on energy forecasting.
 - [Electricity dataset from UCI](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)
 
 - [Solar home electricity data](https://www.ausgrid.com.au/Industry/Our-Research/Data-to-share/Solar-home-electricity-data)
+- [BESS-SOC-forecasting](https://github.com/aleksei-mashlakov/BESS-SOC-forecasting)
 
 
 
