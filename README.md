@@ -26,6 +26,7 @@ list of papers, code, and other resources focus on energy forecasting.
 - Kazmi, H., Munné-Collado, Í., Mehmood, F., Syed, T. A., & Driesen, J. (2021). Towards data-driven energy communities: A review of open-source datasets, models and tools. Renewable and Sustainable Energy Reviews, 148, 111290. `nice review`
 - Munkhammar, J., van der Meer, D., & Widén, J. (2021). Very short term load forecasting of residential electricity consumption using the Markov-chain mixture distribution (MCM) model. Applied Energy, 282, 116180.
 - Li, L., Meinrenken, C. J., Modi, V., & Culligan, P. J. (2021). Short-term apartment-level load forecasting using a modified neural network with selected auto-regressive features. Applied Energy, 287, 116509.
+- Zhang, W., Chen, Q., Yan, J., Zhang, S., & Xu, J. (2021). A novel asynchronous deep reinforcement learning model with adaptive early forecasting method and reward incentive mechanism for short-term load forecasting. Energy, 121492. `reinforcement learning`
 
 ### 2020
 
