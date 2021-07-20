@@ -59,6 +59,7 @@ list of papers, code, and other resources focus on energy forecasting.
 * Energy Convertion and Management
 * Journal of Cleaner Production
 * Renewable Energy
+* Solor Energy
 * Renewable and Sustainable Energy Reviews
 
 
@@ -72,7 +73,7 @@ list of papers, code, and other resources focus on energy forecasting.
 
 - [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
 
-
+- [MCM distribution forecasting](https://github.com/SheperoMah/MCM-distribution-forecasting)
 
 
 ## Datasets
