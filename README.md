@@ -92,6 +92,7 @@ list of papers, code, and other resources focus on energy forecasting.
 - [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
 
 - [MCM distribution forecasting](https://github.com/SheperoMah/MCM-distribution-forecasting)
+- [multivariate-time-series-deep-learning](https://github.com/aleksei-mashlakov/multivariate-deep-learning)
 
 
 ## Datasets
@@ -105,6 +106,7 @@ list of papers, code, and other resources focus on energy forecasting.
 - [Solar home electricity data](https://www.ausgrid.com.au/Industry/Our-Research/Data-to-share/Solar-home-electricity-data)
 - [BESS-SOC-forecasting](https://github.com/aleksei-mashlakov/BESS-SOC-forecasting)
 - [Girasol, a sky imaging and global solar irradiance dataset](https://www.sciencedirect.com/science/article/pii/S2352340921001980) `119GB`
+- [multivariate-time-series-data](https://github.com/laiguokun/multivariate-time-series-data)
 
 
 
