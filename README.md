@@ -56,6 +56,17 @@ list of papers, code, and other resources focus on energy forecasting.
 - Aly, H. H. (2020). A novel approach for harmonic tidal currents constitutions forecasting using hybrid intelligent models based on clustering methodologies. *Renewable Energy*, *147*, 1554-1564.
 
 
+
+### high citation paper (>100)
+- Kong, W., Dong, Z. Y., Jia, Y., Hill, D. J., Xu, Y., & Zhang, Y. (2017). Short-term residential load forecasting based on LSTM recurrent neural network. IEEE Transactions on Smart Grid, 10(1), 841-851.
+- Kong, W., Dong, Z. Y., Hill, D. J., Luo, F., & Xu, Y. (2017). Short-term residential load forecasting based on resident behaviour learning. IEEE Transactions on Power Systems, 33(1), 1087-1088.
+- Kim, T. Y., & Cho, S. B. (2019). Predicting residential energy consumption using CNN-LSTM neural networks. Energy, 182, 72-81.
+- Wang, Y., Gan, D., Sun, M., Zhang, N., Lu, Z., & Kang, C. (2019). Probabilistic individual load forecasting using pinball loss guided LSTM. Applied Energy, 235, 10-20.
+- Bedi, J., & Toshniwal, D. (2019). Deep learning framework to forecast electricity demand. Applied energy, 238, 1312-1326.
+- Qing, X., & Niu, Y. (2018). Hourly day-ahead solar irradiance prediction using weather forecasts by LSTM. Energy, 148, 461-468.
+- Wang, K., Qi, X., & Liu, H. (2019). A comparison of day-ahead photovoltaic power forecasting models based on deep learning neural network. Applied Energy, 251, 113315.
+
+
 ## Journals
 
 * Applied Energy
