@@ -61,6 +61,7 @@ list of papers, code, and other resources focus on energy forecasting.
 * Journal of Cleaner Production
 * Renewable Energy
 * Solor Energy
+* Energy
 * Renewable and Sustainable Energy Reviews
 
 
