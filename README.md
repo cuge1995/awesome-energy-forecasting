@@ -42,6 +42,8 @@ list of papers, code, and other resources focus on energy forecasting.
 
 - Yagli, G. M., Yang, D., & Srinivasan, D. (2019). Automatic hourly solar forecasting using machine learning models. *Renewable and Sustainable Energy Reviews*, *105*, 487-498.
 
+- Li, P., Zhou, K., Lu, X., & Yang, S. (2020). A hybrid deep learning model for short-term PV power forecasting. Applied Energy, 259, 114216. `clear`
+
 - Ahmed, R., Sreeram, V., Mishra, Y., & Arif, M. D. (2020). A review and evaluation of the state-of-the-art in PV solar power forecasting: Techniques and optimization. *Renewable and Sustainable Energy Reviews*, *124*, 109792. `review`
 
 - Wu, C., Wang, J., Chen, X., Du, P., & Yang, W. (2020). A novel hybrid system based on multi-objective optimization for wind speed forecasting. *Renewable Energy*, 146, 149-165.
