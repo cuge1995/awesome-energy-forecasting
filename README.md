@@ -23,6 +23,7 @@ list of papers, code, and other resources focus on energy forecasting.
 ## Papers
 
 ### 2021
+- Guermoui, M., Melgani, F., Gairaa, K., & Mekhalfi, M. L. (2020). A comprehensive review of hybrid models for solar radiation forecasting. Journal of Cleaner Production, 258, 120357. `review`
 - Mashlakov, A., Kuronen, T., Lensu, L., Kaarna, A., & Honkapuro, S. (2021). Assessing the performance of deep learning models for multivariate probabilistic energy forecasting. Applied Energy, 285, 116405.
 - Kazmi, H., Munné-Collado, Í., Mehmood, F., Syed, T. A., & Driesen, J. (2021). Towards data-driven energy communities: A review of open-source datasets, models and tools. Renewable and Sustainable Energy Reviews, 148, 111290. `nice review`
 - Munkhammar, J., van der Meer, D., & Widén, J. (2021). Very short term load forecasting of residential electricity consumption using the Markov-chain mixture distribution (MCM) model. Applied Energy, 282, 116180.
