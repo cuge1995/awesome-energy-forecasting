@@ -105,6 +105,11 @@ list of papers, code, and other resources focus on energy forecasting.
 
 - [MCM distribution forecasting](https://github.com/SheperoMah/MCM-distribution-forecasting)
 - [multivariate-time-series-deep-learning](https://github.com/aleksei-mashlakov/multivariate-deep-learning)
+- [PV_ELM_pred](https://github.com/cyrilvoyant/PV_ELM_pred): Benchmark of persistence, BLEND, AR-OLS and Extreme Learning Machine variants for photovoltaic power forecasting, scored with skill scores against persistence.
+- [pv-dimensionality-reduction](https://github.com/cyrilvoyant/pv-dimensionality-reduction): Endogenous PV power forecasting compared across seven dimensionality-reduction methods, with a model-free geometric filter and an ELM wrapper reported on an accuracy-frugality trade-off.
+- [Make_Stationary](https://github.com/cyrilvoyant/Make_Stationary): Deseasonalization of hourly PV and GHI series with a ridge-regularized ELM, extracting a phase-based seasonal component and stationary residuals.
+- [ARTU](https://github.com/cyrilvoyant/ARTU): Second-order autoregressive reference method for solar radiation forecasting, alongside persistence, climatology, CLIPER and exponential smoothing baselines.
+- [cyclostationary-forecasting-matlab](https://github.com/cyrilvoyant/cyclostationary-forecasting-matlab): Training-free BLEND and CLIPER operators for periodic energy series, combining simple and cyclic persistence in closed form.
 
 
 ## Datasets
