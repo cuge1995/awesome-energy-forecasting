@@ -105,6 +105,7 @@ list of papers, code, and other resources focus on energy forecasting.
 
 - [MCM distribution forecasting](https://github.com/SheperoMah/MCM-distribution-forecasting)
 - [multivariate-time-series-deep-learning](https://github.com/aleksei-mashlakov/multivariate-deep-learning)
+- [FrugalCast](https://frugalcast.cyrilvoyant.com): In-browser benchmark of 30 frugal forecasting models for solar, PV, wind, load or price series, with prediction intervals and 20 metrics (nRMSE, NICE, PICP, CRPS).
 
 
 ## Datasets
